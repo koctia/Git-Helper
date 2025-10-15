@@ -1,7 +1,7 @@
 # Шпаргалка по консольным командам Git
 
 *   [Общее](https://github.com/koctia/Git-Helper/blob/main/%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D0%BC%20Git.md#%D0%BE%D0%B1%D1%89%D0%B5%D0%B5)
-*   [Консольные команды](https://github.com/koctia/web-development/tree/master/git#Консольные-команды)
+*   [Консольные команды](https://github.com/koctia/Git-Helper/blob/main/%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D0%BC%20Git.md#%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 *   [Примеры реальной работы](https://github.com/koctia/web-development/tree/master/git#Примеры)
 
 
